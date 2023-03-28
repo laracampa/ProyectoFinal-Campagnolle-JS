@@ -221,3 +221,79 @@ button:active {
   height: 40px;
   width: 100px;
   font-size: large; }
+  .comprar-carrito  a{
+    text-decoration: none;
+    color: black;
+    }
+    .comprar-carrito  a:hover{
+      text-decoration: none;
+      color: black;
+      }
+
+
+  .posts{
+    text-align: center;
+  }
+  .post-body{
+    font-size: 20px;
+  }
+  
+
+  .contacto {
+    height: 50%;
+    width: 100%;
+    display: block;
+    text-align: center; 
+    
+  }
+    .contacto .form1 {
+      margin: 1%;
+      padding: 1%;
+      width: 70%;
+      font-weight: bold; 
+      font-size: x-large;
+      border-radius: 18px;
+    }
+    .contacto .form2 {
+      margin: 1%;
+      padding: 1%;
+      width: 70%; 
+      font-weight: bold; 
+      font-size: x-large;
+      border-radius: 18px;}
+    .contacto .form3 {
+      margin: 1%;
+      padding: 1%;
+      width: 70%; 
+      font-weight: bold; 
+      font-size: x-large;
+      border-radius: 18px;
+    }
+    .contacto .form4 {
+      margin: 1%;
+      padding: 1%;
+      width: 70%; 
+      font-weight: bold; 
+      font-size: x-large;
+      border-radius: 18px;
+    }
+    .contacto .form5 {
+      margin: 1%;
+      padding: 1%;
+      width: 70%; 
+      font-weight: bold; 
+      font-size: x-large;
+      border-radius: 18px;
+    }
+    .contacto .enviar {
+      box-shadow: 0px 2px 0px 1px #0e733f;
+      background: linear-gradient(to bottom, #7fd4a8 5%, #2a8b5a 100%);
+      border-radius: 18px;
+      border: 1px solid #0e522f;
+      cursor: pointer;
+      font-weight: bold;
+      height: 40px;
+      width: 100px;
+      font-size: large; }
+
+  
