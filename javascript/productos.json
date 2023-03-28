@@ -1,0 +1,6 @@
+[
+    {"id": 1, "nombre": "Brownie", "precio": 3000, "imagen": "../assets/img/brownie.png"},
+    {"id": 2, "nombre": "Lemonpie", "precio": 2000, "imagen": "../assets/img/lemonpie.png"},
+    {"id": 3, "nombre": "Chocotorta", "precio": 1000, "imagen": "../assets/img/chocotorta.png"},
+    {"id": 4, "nombre": "Torta Sacher", "precio": 4000, "imagen": "../assets/img/torta-chocolate.png"}
+]
